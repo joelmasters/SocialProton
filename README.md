@@ -19,19 +19,22 @@ The very first step will be to reach out to streamers that already have good qua
 
 ### Increase Width
 We can increase width by promoting the streamer through typical marketing techniques:
-- blog posts targeted to parents (impacts of role models on youth, time a typical youth spends watching streams)
+- blog posts targeted to parents (impacts of role models on youth, time a typical youth spends watching streams, influence of video games on youth - positive and negative)
 - blog posts targeted to gamers (tips for improving play, interviews, life of a gamer)
-- social media promotions
+- social media promotions (ads, giveaways)
 - interviews with streamer
 
 ### Increase Depth
 We can increase depth by providing the streamer with tools to drive stream engagement such as:
-- giveaways (small prizes go a long way with youth)
+- giveaways (small or large)
 - moderators 
-- chat bots
+- chat/trivia bots
 - questions for the streamer to ask
 - educational resources
 - ways to get in contact off stream
+- breakouts/ways to break chat into multiple groups
+- memorable icons for participants
 
 ## Knowledge Gaps
 1. I have no idea how to run a successful stream. I can understand, as a viewer, a good stream from a bad one, but I will need to dig into the science behind what makes a stream great.
+2. How to build (online) community. Ideally, each stream would be its own welcoming community.
