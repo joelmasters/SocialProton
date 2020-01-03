@@ -40,10 +40,24 @@ We can increase depth by providing the streamer with tools to drive stream engag
 2. How to build (online) community. Ideally, each stream would be its own welcoming community.
 
 # Phase I Actions
-1. Identify the game with the largest streaming viewership
+1. Identify the game with the largest streaming viewership on Twitch
 2. Identify a streamer with a good community of followers already
+    1. Regular streaming schedule
+    2. > 100 viewers consistently
+    3. Active particpants
+    4. Mostly positive
 3. Reach out to streamer for partnership
 4. Experiment with ways to build up streamer's community
+    1. Positive chat -- lead by example
+    2. How-to questions (how do I do this in the game? What is better, this or that? Why did he/she do that?) -- give community opportunities to be good
+    3. Greet new sign-ons
 5. Determine worthwhile metrics to measure against
+    1. Number of viewers
+    2. Amount of chat overall (number of lines, % viewers)
+    3. Positive vs. Negative chat sentiment
+    4. Amount of vulnerabilities (could be as simple as others asking questions they don't know the answers to)
 6. Iteratate
+    1. What worked?
+    2. What didn't work or had little impact?
+    3. What needs to be added?
 
