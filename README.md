@@ -5,9 +5,9 @@ Repository for the Social Proton Project
 Social Proton is the foundation for a network of positive social influences. Positive social influences are ones that uphold moral values and are viewed to be "good" influences on a younger person's life. The determination is entirely subjective, but rooted deep in Christian values. Values include: selflessness, responsibility, positivity, care of others, self-control, and patience. In addition, the influencers must also want to do good.
 
 ## Why Social Proton?
-Social Proton is conceived from my heart for young online gamers. When I was one, I found the community (whether in-game or streamers) to be largely filled with manifestations of low self-esteem in the form of uncontrolled anger ("rage"), selfishness, lack of patience, and devoid of a care for others, many being described as "toxic" environments. Young people often seek asylum from the "real world" within games, where they feel they can make a difference and be accepted. What if the gaming community, rather than being "toxic", were a place where young people would feel empowered, built up, and supported, even finding a real sense of community, rather than feeling conditional acceptance. 
+Social Proton is conceived from my heart for young online gamers. When I was one, I found the community (whether in-game or streamers) to be largely filled with manifestations of low self-esteem in the form of uncontrolled anger ("rage"), selfishness, lack of patience, and devoid of a care for others, many being described as "toxic" environments. Young people often seek asylum from the "real world" within games, where they feel they can make a difference and be accepted. What if the gaming community, rather than being "toxic", were a place where young people would feel empowered, built up, and supported, even finding a real sense of community, real friends who care about each other, rather than feeling conditional acceptance. 
 
-Social Proton aims to recognize and partner with influencers that fit the role of a positive social influence. We plan to provide training, resources, tools, counseling, and other help to build up these leaders in the community, just like we do in the church.
+Social Proton aims to recognize and partner with positive social influencers. We plan to provide training, resources, tools, counseling, and other resources help to build up these leaders in the community, just like we do in the church.
 
 ## Mission Statement
 Connect youth with positive social influences.
@@ -38,3 +38,12 @@ We can increase depth by providing the streamer with tools to drive stream engag
 ## Knowledge Gaps
 1. I have no idea how to run a successful stream. I can understand, as a viewer, a good stream from a bad one, but I will need to dig into the science behind what makes a stream great.
 2. How to build (online) community. Ideally, each stream would be its own welcoming community.
+
+# Phase I Actions
+1. Identify the game with the largest streaming viewership
+2. Identify a streamer with a good community of followers already
+3. Reach out to streamer for partnership
+4. Experiment with ways to build up streamer's community
+5. Determine worthwhile metrics to measure against
+6. Iteratate
+
