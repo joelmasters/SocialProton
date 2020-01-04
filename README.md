@@ -43,7 +43,7 @@ We can increase depth by providing the streamer with tools to drive stream engag
 1. Identify the game with the largest streaming viewership on Twitch
 2. Identify a streamer with a good community of followers already
     1. Regular streaming schedule
-    2. > 100 viewers consistently
+    2. Greater than 100 viewers consistently
     3. Active particpants
     4. Mostly positive
 3. Reach out to streamer for partnership
