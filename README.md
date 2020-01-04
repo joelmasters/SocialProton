@@ -61,6 +61,6 @@ We can increase depth by providing the streamer with tools to drive stream engag
     2. What didn't work or had little impact?
     3. What needs to be added?
 
-# R&D
-## Developing Relationships/Combatting Loneliness
+## R&D
+### Developing Relationships/Combatting Loneliness
 * Sharing what matters with each other https://blog.heartsupport.com/why-is-everyone-so-lonely-these-days-9a7781527296
