@@ -69,5 +69,6 @@ We can increase depth by providing the streamer with tools to drive stream engag
 ### Building Community
 * When you greet someone, you are acknowledging their existing and welcoming them into your world - "Who is this man?"
 * Building communities, IndieHackers podcast #092 - "The Business of Bringing People Together"
+* We cannot consume our way to community. We need an ongoing engagement - "The secret to creating the beloved community: Doug Shipman at TEDxAtlanta" YouTube
 
 
