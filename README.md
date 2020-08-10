@@ -61,6 +61,9 @@ We can increase depth by providing the streamer with tools to drive stream engag
     1. What worked?
     2. What didn't work or had little impact?
     3. What needs to be added?
+    
+## Website Requirements
+1. Directory of family-friendly/clean streamers
 
 ## R&D
 ### Developing Relationships/Combatting Loneliness
