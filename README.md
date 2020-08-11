@@ -64,6 +64,9 @@ We can increase depth by providing the streamer with tools to drive stream engag
     
 ## Website Requirements
 1. Directory of family-friendly/clean streamers
+2. Contact form to recommend clean streamers and provide feedback
+3. Universal search feature by game or streamer
+4. Easy to update
 
 ## R&D
 ### Developing Relationships/Combatting Loneliness
